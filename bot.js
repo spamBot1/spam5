@@ -30,7 +30,8 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits')
+        message.channel.send('#rep @╔╣╠╗╚iMrGaithGhozzi╝╔╣╠╗⧸⎠╱
+#8396')
     }
 });
 
@@ -48,7 +49,8 @@ client2.on('message', message => {
 
 client2.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits')
+        message.channel.send('#rep ╔╣╠╗╚iMrGaithGhozzi╝╔╣╠╗⧸⎠╱
+#8396')
     }
 });
 
